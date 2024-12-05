@@ -13,6 +13,7 @@
 
 **4 December 2024:**
 - Employee Wage Problem Statement
+- [Repository Link](https://github.com/Rakshit6722/Rakshit_EmployeeWage.git)
 
 **5 December 2024:**
 - Abstraction
