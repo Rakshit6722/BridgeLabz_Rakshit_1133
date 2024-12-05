@@ -1,4 +1,5 @@
 class Encapsulation{
+    //_ earliar used for private variables in class
     //# is used to set private variables in class
     #name;
 
