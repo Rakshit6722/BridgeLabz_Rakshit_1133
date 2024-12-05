@@ -19,3 +19,4 @@ let obj = new Encapsulation();
 console.log(obj.getName());
 obj.setName("Raghav");
 console.log(obj.getName());
+
