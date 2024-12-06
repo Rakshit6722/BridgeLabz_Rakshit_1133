@@ -26,3 +26,12 @@
    - Alert
    - Prompt
    - Confirm
+
+**6 December 2024**
+- Node and npm
+- Transpilers
+- Event Loop
+- Polyfill
+- Recursion and call stack
+- Rest and Spread operator
+- Closures
