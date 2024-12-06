@@ -35,3 +35,8 @@
 - Recursion and call stack
 - Rest and Spread operator
 - Closures
+- IIFE and NFE
+- Call and Apply
+- Function Binding
+- Scheduling -setTimeout and setInterval
+- Event handlers
