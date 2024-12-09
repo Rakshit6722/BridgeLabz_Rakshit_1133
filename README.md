@@ -40,3 +40,8 @@
 - Function Binding
 - Scheduling -setTimeout and setInterval
 - Event handlers
+
+**9 December 2024**
+- Decorators
+- Previous topic Revision
+- Review Session
