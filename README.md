@@ -45,3 +45,8 @@
 - Decorators
 - Previous topic Revision
 - Review Session
+
+**10 December 2024**
+- Prototype
+- Forwarding
+- Object methods
