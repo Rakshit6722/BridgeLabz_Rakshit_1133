@@ -20,7 +20,7 @@
 - Encapsulation
 - Inheritance
 - Polymorphism
-- Coal Scaling Operator
+- Coalescing Operator
 - Type Conversion
 - Interactions
    - Alert
