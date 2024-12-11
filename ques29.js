@@ -2,10 +2,14 @@ import { isPrime } from "./ques16.js";
 
 const firstNPrimeNumbers = (n) => {
     let res = []
-    for (let i = 2;i <= n; i++) {
+    let counter = 0;
+    let i=2
+    while(counter<=100) {
         if (isPrime(i)){
             res.push(i)
+            counter++;
         }
+        i++
     }
     return res
 }
