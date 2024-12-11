@@ -1,0 +1,21 @@
+{
+  "name": "bridgelabz_rakshit_1133",
+  "version": "1.0.0",
+  "description": "**2 December 2024:**\r - Basic Programming Constructs\r - Arrays - forEach, map, reduce, filter\r - Arrow Functions\r - Iterables",
+  "main": "ques1.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakshit6722/BridgeLabz_Rakshit_1133.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakshit6722/BridgeLabz_Rakshit_1133/issues"
+  },
+  "homepage": "https://github.com/Rakshit6722/BridgeLabz_Rakshit_1133#readme"
+}
