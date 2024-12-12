@@ -11,7 +11,7 @@
 const fib = (n) => {
     let dp = new Array(n+1)
     dp.fill(-1)
-    return helperFunc(n,dp)
+    return BigInt(helperFunc(n,dp))
 }
 
 function helperFunc(n,dp){
