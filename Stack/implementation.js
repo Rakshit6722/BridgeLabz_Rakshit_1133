@@ -20,6 +20,12 @@ class Stack{
         return this.#stack.length === 0
     }
 
+    size(){
+        return this.#stack.length
+    }
+
+    
+
     print(){
         console.log(this.#stack)
     }
