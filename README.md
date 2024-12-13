@@ -108,3 +108,11 @@
 - Calculate Fibonacci(500) with high precision (all digits)
 - Calculate 70! with high precision (all digits)
 
+**13 December 2024**
+- Array
+   - Custom implementation
+   - Searching and Sorting
+   - Basic Questions
+- Stack
+   - Custom implementation
+
