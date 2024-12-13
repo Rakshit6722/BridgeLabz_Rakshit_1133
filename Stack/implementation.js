@@ -24,21 +24,23 @@ class Stack{
         return this.#stack.length
     }
 
-    
+
 
     print(){
         console.log(this.#stack)
     }
 }
 
-let stack = new Stack()
-stack.push(1)
-stack.push(2)
-stack.push(3)
-stack.print()
-console.log(stack.pop())
-stack.print()
-console.log(stack.peek())
-console.log(stack.isEmpty())
-stack.print()
-console.log(stack.pop())
+export default Stack
+
+// let stack = new Stack()
+// stack.push(1)
+// stack.push(2)
+// stack.push(3)
+// stack.print()
+// console.log(stack.pop())
+// stack.print()
+// console.log(stack.peek())
+// console.log(stack.isEmpty())
+// stack.print()
+// console.log(stack.pop())
