@@ -27,13 +27,28 @@ class CustomArray extends Array{
     average(){
         return this.sum()/this.length
     }
+
+    print(){
+        // for(let item of this){
+        //     console.log(item)
+        // }
+        console.log(this.join(', '))
+    }
 }
 
 let customArray = new CustomArray(1,2,3)
-customArray.push(1)
-customArray.push(2)
-customArray.push(3)
-console.log(customArray)
+customArray.push(4)
+customArray.push(5)
+customArray.push(6)
+console.log(customArray.sum())
+console.log(customArray.evenNum())
+console.log(customArray.oddNum())
+console.log(customArray.square())
+console.log(customArray.max())
+console.log(customArray.min())
+console.log(customArray.average())
+console.log(customArray.length)
+customArray.print()
 
 //using custom implementation
 // class CustomArray{
