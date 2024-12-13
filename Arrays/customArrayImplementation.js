@@ -12,6 +12,18 @@ class CustomArray extends Array{
         return this.filter((item) => item % 2 !== 0)
     }
 
+    square(){
+        return this.map((item) => item * item)
+    }
+
+    max(){
+        return Math.max(...this)
+    }
+
+    min(){
+        return Math.min(...this)
+    }
+
     average(){
         return this.sum()/this.length
     }
