@@ -103,7 +103,6 @@ class LinkedList {
             temp = temp.next;
         }
         console.log(str.join(' -> ') + ' -> null');
-
     }
 
 
