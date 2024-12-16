@@ -12,7 +12,7 @@ class CustomArray extends Array{
                     primeSum = primeSum + value
                 }
             }else if(typeof value === 'string'){
-                str += value
+                str = str.concat(value)
             }else if(typeof value === 'boolean'){
                 if(value){
                     trueCount++
@@ -21,7 +21,7 @@ class CustomArray extends Array{
                 }
             }
         }
-        ans.push(primeSum,{isPalindrome:this.palindrome(str)},{True:trueCount},{False:falseCount})
+        ans.push(primeSum,{string:str},{isPalindrome:this.palindrome(str)},{True:trueCount},{False:falseCount})
         console.log(ans)
 
     }
@@ -41,7 +41,7 @@ class CustomArray extends Array{
 }
 
 let customArray = new CustomArray()
-customArray.operations(4,21,3,2,44,'a','b','a',true,false)
+customArray.operations(4,21,3,2,44,'a','b','bada',true,false)
 
 
 const copyArrObject = (arr) => {
@@ -83,7 +83,9 @@ const deepCopy = (obj) => {
 let arr = [{a:1,b:2,e:{f:3}},{c:3,d:4},{e:5,f:6}]
 let arr2 = copyArrObject(arr)
 
-arr2[1].c = 10
+console.log("Original Array: ",arr)
+console.log("Copied Array: ",arr2) 
+
 
 // console.log(arr[1].c)
 // console.log(arr2[1].c)
@@ -94,8 +96,10 @@ arr2[1].c = 10
 // console.log(arr2[0].e.f)
 
 arr2[1].c = 10
-console.log(arr[1].c)
-console.log(arr2[1].c)
+// console.log(arr[1].c)
+// console.log(arr2[1].c)
+console.log(arr)
+console.log(arr2)
 
 // arr2[0].a = 10
 
