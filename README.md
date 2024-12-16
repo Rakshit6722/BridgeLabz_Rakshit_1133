@@ -116,7 +116,7 @@
 - Stack
    - Custom implementation
 
-**14 December 2024**
+**16 December 2024**
 - Linked List
    - Implementation
 
