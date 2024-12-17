@@ -121,3 +121,9 @@
    - Implementation
    - Doubly Linked List Implementation
 - Review
+
+**17 Decemeber 2024**
+- Linked List
+   - Circular linked list implementation
+- Queue
+- Hash Tables Implementation
