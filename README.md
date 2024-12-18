@@ -127,3 +127,11 @@
    - Circular linked list implementation
 - Queue
 - Hash Tables Implementation
+
+**18 December 2024**
+- Revision
+   - Hash Tables
+   - Doubly Linked List
+- Practice Problem -> Stack
+- Tree
+   - Binary Search Tree Implementation
