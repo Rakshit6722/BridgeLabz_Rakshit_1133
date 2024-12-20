@@ -135,3 +135,6 @@
 - Practice Problem -> Stack
 - Tree
    - Binary Search Tree Implementation
+
+**20 December 2024**
+- Heaps and Heap Sort
