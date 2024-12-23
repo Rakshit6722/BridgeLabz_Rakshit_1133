@@ -138,3 +138,8 @@
 
 **20 December 2024**
 - Heaps and Heap Sort
+
+**21 December 2024**
+- Graph
+   - Implementation using adjacency list
+- Review 3 -> Linked list question
