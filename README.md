@@ -143,3 +143,16 @@
 - Graph
    - Implementation using adjacency list
 - Review 3 -> Linked list question
+
+**22 Decemeber 2024**
+- Array Problems
+   - duplicate elements
+   - missing number
+   - pair with given sum
+   - contiguous subarray with largest sum
+   - longest increasing subsequence
+   - maximum product of three numbers
+   - move zeroes to the end
+   - producy of array except self
+   - rotate array
+   - subarray with given sum
