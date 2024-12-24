@@ -156,3 +156,12 @@
    - producy of array except self
    - rotate array
    - subarray with given sum
+- Linked Lists Problems
+   - reverse a linked list
+   - detect a cycle
+   - merge two sorted linekd list
+   - middle of linked list
+   - remove nth node from end 
+   - add two numbers
+   - palindrome linked list
+   - intersection of two linked list
