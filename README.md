@@ -165,3 +165,10 @@
    - add two numbers
    - palindrome linked list
    - intersection of two linked list
+- Stack Problems
+   - balanced paranthesis
+   - implement stack using two queues
+   - next greater element
+   - sort stack
+   - min stack
+   - stock span problem
