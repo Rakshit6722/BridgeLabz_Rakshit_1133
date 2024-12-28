@@ -24,7 +24,7 @@ class Queue{
     }
 }
 
-class Stack{
+export class Stack{
     constructor(){
         this.queue1 = new Queue()
         this.queue2 = new Queue()
