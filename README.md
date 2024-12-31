@@ -176,3 +176,10 @@
    - sort stack
    - min stack
    - stock span problem
+
+**31 December 2024**
+- Queue Problems
+   - Implement queue using two stacks
+   - Circular queue
+   - Queue Reversal
+   - Reverse first k elements in a queue
