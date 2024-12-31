@@ -156,6 +156,8 @@
    - producy of array except self
    - rotate array
    - subarray with given sum
+
+**23 December 2024**
 - Linked Lists Problems
    - reverse a linked list
    - detect a cycle
@@ -165,6 +167,8 @@
    - add two numbers
    - palindrome linked list
    - intersection of two linked list
+
+**24 December 2024**
 - Stack Problems
    - balanced paranthesis
    - implement stack using two queues
