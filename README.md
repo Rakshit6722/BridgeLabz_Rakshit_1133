@@ -183,3 +183,13 @@
    - Circular queue
    - Queue Reversal
    - Reverse first k elements in a queue
+
+**1 December 2024**
+- Hash Table Problems
+   - duplicate in arrays
+   - first unique character in a string
+   - group anagram
+   - intersection of two arrays
+   - longest substring without repeating characters
+   - subarray sum equals k
+   - top k frequent elements
