@@ -15,6 +15,6 @@ function longestSubstringWithoutRepeatingCharacters(s) {
     return longest;
 }
 
-// Example usage:
+
 const inputString = "abcabcbb";
 console.log(longestSubstringWithoutRepeatingCharacters(inputString)); // Output: 3
