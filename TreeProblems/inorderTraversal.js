@@ -46,4 +46,4 @@ const inorderTraversal = (root) => {
     }
 }
 
-inorderTraversal(tree.root);
+// inorderTraversal(tree.root);
