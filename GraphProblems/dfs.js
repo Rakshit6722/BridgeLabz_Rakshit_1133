@@ -8,7 +8,6 @@ function depthFirstSearch(graph, startVertex) {
         visited.add(vertex);
         result.push(vertex);
 
-        // Get neighbors from the adjacencyList directly
         const neighbors = graph.adjacencyList[vertex] || [];
 
         for (const neighbor of neighbors) {
