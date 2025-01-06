@@ -1,3 +1,6 @@
+// Factory Pattern
+// creates objects without specifying their exact class
+
 class Car{
     constructor(model){
         this.model = model
