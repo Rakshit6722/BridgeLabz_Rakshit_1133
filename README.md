@@ -183,6 +183,7 @@
    - Circular queue
    - Queue Reversal
    - Reverse first k elements in a queue
+   - Priority Queue
 
 **1 January 2024**
 - Hash Table Problems
