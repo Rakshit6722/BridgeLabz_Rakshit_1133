@@ -185,7 +185,7 @@
    - Reverse first k elements in a queue
    - Priority Queue
 
-**1 January 2024**
+**1 January 2025**
 - Hash Table Problems
    - duplicate in arrays
    - first unique character in a string
@@ -203,4 +203,17 @@
 - Graph Problems
    - bfs
    - dfs
+
+**6 January 2025**
+- Design Patterns
+   - SingleTon
+   - Factory
+   - Module
+- SOLID Principles
+   - Single Responsibility Principle
+   - Open Closed Principle
+   - Liskov Substitution Principle
+   - Interface Segregation Principle
+   - Dependency Inversion Principle
+- Practice Problems on SOLID Principles
 
