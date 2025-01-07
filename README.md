@@ -217,3 +217,14 @@
    - Dependency Inversion Principle
 - Practice Problems on SOLID Principles
 
+**7 January 2024**
+- Object and classes
+- object reference copying - shallow and deep
+- object methods
+- optional chaining
+- garbage collector
+- getter and setter in objects
+- object descriptors
+- this and new keyword
+- object to primitive
+
