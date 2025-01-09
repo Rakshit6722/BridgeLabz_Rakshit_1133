@@ -235,4 +235,4 @@
    - callback functions
    - object flags and descriptors
    - optional chaining
-   - deep copy and shallow cop
+   - deep copy and shallow copy
