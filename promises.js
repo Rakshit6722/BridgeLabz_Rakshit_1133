@@ -21,11 +21,11 @@
 
 //one way to do it
 const fetchData = (url) => {
-    return new Promise((res,rej)=>{
+    return new Promise((res, rej) => {
         const response = fetch(url)
-        if(response){
+        if (response) {
             res(response)
-        }else{
+        } else {
             rej("Error fetching data")
         }
     })
@@ -44,7 +44,7 @@ fetchData("https://jsonplaceholder.typicode.com/todos/2")
 
 //other way to do it directly using fetch
 
-fetch("https://jsonplaceholder.typicode.com/todos/1")
+fetch("https://jsonplaceholder.typicode.com/users/4")
     .then((response) => {
         return response.json()
     })
@@ -53,3 +53,32 @@ fetch("https://jsonplaceholder.typicode.com/todos/1")
         console.log(data)
     })
     .catch(err => console.log(err))
+
+
+//Database connection with promises
+
+const connectDB = () => {
+    return new Promise((res, rej) => {
+        const connection = Math.floor(Math.random() * 2) + 1
+        setTimeout(() => {
+            if (connection === 1) {
+                res({
+                    status: "success",
+                    message: "Connected to DB"
+                })
+            } else {
+                rej("Failed to connect to DB")
+            }
+        }, 2000)
+    })
+}
+
+connectDB()
+    .then((data) => {
+        return data
+    })
+    .then((data) => {
+        console.log(data)
+    })
+    .catch(err => console.log(err))
+
