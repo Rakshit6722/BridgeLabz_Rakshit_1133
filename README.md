@@ -228,3 +228,12 @@
 - this and new keyword
 - object to primitive
 
+**8 January 2025**
+- Problem statmenet on
+   - object
+   - object methods
+   - callback functions
+   - object flags and descriptors
+   - optional chaining
+   - deep copy and shallow copy
+
