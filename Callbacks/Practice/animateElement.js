@@ -10,6 +10,7 @@ const moveElement = (box, distance, callback) => {
     },50)
 }
 
+
 const box1 = document.getElementById("box1")
 moveElement(box1, 250, ()=>{
     console.log("Box moved successfully")
