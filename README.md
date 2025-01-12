@@ -236,3 +236,16 @@
    - object flags and descriptors
    - optional chaining
    - deep copy and shallow copy
+
+**9 January 2025**
+- Promises
+- Promisifcation
+- Promise APIs
+- Custom Errors
+- Promise Chaining
+
+**10 January 2025**
+- Promises Practice
+- Callbacks
+- Hoisting 
+- Currying
