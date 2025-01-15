@@ -1,14 +1,14 @@
 class Person{
-    constructor(public name:String, private age:Number){
+    constructor(public name:string, private age:number){
         this.name = name;
         this.age = age;
     }
 
-    greet():String{
+    greet():string{
         return `Hello ${this.name}`
     }
 
-    getAge():Number{
+    getAge():number{
         return this.age
     }
 }
