@@ -1,8 +1,8 @@
 class Vehilce {
-    public make: Number;
-    public model: String;
+    public make: number;
+    public model: string;
 
-    constructor(make: Number, model: String) {
+    constructor(make: number, model: string) {
         this.make = make;
         this.model = model;
     }
@@ -13,9 +13,9 @@ class Vehilce {
 }
 
 class Car extends Vehilce{
-    public numberOfDoors: Number;
+    public numberOfDoors: number;
 
-    constructor(make: Number, model: String, numberOfDoors: Number){
+    constructor(make: number, model: string, numberOfDoors: number){
         super(make,model)
         this.numberOfDoors = numberOfDoors
     }
