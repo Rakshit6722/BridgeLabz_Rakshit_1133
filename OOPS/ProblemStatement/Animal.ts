@@ -21,7 +21,7 @@ class Dog1 extends Animal1{
         return this.hungerLevel
     }
 
-    feedDog(amount): void{
+    feedDog(amount: number): void{
         this.hungerLevel -= amount
     }
 }
@@ -40,7 +40,7 @@ class Cat1 extends Animal1{
         return this.hungerLevel
     }
 
-    feedCat(amount): void{
+    feedCat(amount: number): void{
         this.hungerLevel -= amount
     }
 }
