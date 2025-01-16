@@ -249,3 +249,26 @@
 - Callbacks
 - Hoisting 
 - Currying
+
+**13 January 2025**
+- Previous Topics Revision
+- Review 
+
+**14 January 2025**
+- Previous Topic Revision
+- Async Await
+- Prototypes
+
+**15 January 2025**
+- Basics of TypesScript
+- Classes and Objects
+- OOPS
+   - Inheritance
+   - Abstraction
+
+**16 January 2025**
+- OOPS
+   - Encapsulation
+   - Polymorphism
+- Exception Handling
+- File IO
