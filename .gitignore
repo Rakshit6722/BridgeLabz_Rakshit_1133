@@ -1,2 +1,4 @@
 *.js
-tsconfig.json
+*.json
+node_modules
+*.txt
