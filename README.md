@@ -272,3 +272,8 @@
    - Polymorphism
 - Exception Handling
 - File IO
+
+**17 January 2025**
+- Decorators
+   - class decorator
+   - method decorator
